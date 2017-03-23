@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 奥斯卡结构化开手机的规划
 
 卡视角发客户
+=======
+奥斯卡结构化开手机的规划
+>>>>>>> branch 'master' of https://github.com/chinaLinLei/print.git
